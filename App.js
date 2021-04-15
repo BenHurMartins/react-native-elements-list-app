@@ -3,6 +3,7 @@ import { StyleSheet, View, FlatList, SafeAreaView, Alert } from "react-native";
 import { ListItem } from "react-native-elements";
 import axios from "axios";
 
+
 type Props = {};
 export default class App extends Component<Props> {
   constructor(props) {
